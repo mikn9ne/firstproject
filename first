@@ -2,6 +2,10 @@ border-radius: 2px;
 
 font-size: rem1
 
+body{
+linear-gradient(to right, purple, blue);
+}
+
 <html>
 
 <head>
